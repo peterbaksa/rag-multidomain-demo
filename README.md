@@ -7,6 +7,12 @@ We use a public PDF on Python programming ([URL](https://www.halvorsen.blog/docu
 as our document source, and process it through chunking, embedding, 
 and vector search to answer questions via an LLM.
 
+## 🧠 RAG System Architecture Overview
+
+Curious about how this project’s retrieval-augmented generation pipeline works under the hood?<br>
+For a deep dive into every building block and how they fit together, see the 
+[detailed RAG architecture diagram above](rag_system.md).
+
 ---
 
 ## 📦 Features
