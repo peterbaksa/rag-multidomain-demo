@@ -1,0 +1,8 @@
+jupyter
+langchain
+pypdf
+langchain-openai
+langchain_community
+python-dotenv
+pillow # PyPDFLoader
+faiss-cpu
